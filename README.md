@@ -3,79 +3,83 @@
 Welcome to my GitHub profile! Here's a bit about me:
 
 ## About Me
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in Web Development.
+- 🌱 I’m currently learning Full Stack Development.
+- 💞️ I’m looking to collaborate on exciting web projects.
+- 📫 How to reach me: biswapritij15@gmail.com
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love creating interactive web applications and GUI-based software!
 
 ## Skills
 
 ### Frontend
 <p align="left">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white&logoWidth=20&labelColor=black&logo=html5&logoShape=circle" alt="HTML5" />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   </a>
   &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white&logoWidth=20&labelColor=black&logo=css3&logoShape=circle" alt="CSS3" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   </a>
   &nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black&logoWidth=20&labelColor=black&logo=javascript&logoShape=circle" alt="JavaScript" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   </a>
 </p>
 
 ### Backend
 <p align="left">
   <a href="https://www.python.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white&logoWidth=20&labelColor=black&logo=python&logoShape=circle" alt="Python" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
   &nbsp;
   <a href="https://www.java.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white&logoWidth=20&labelColor=black&logo=java&logoShape=circle" alt="Java" />
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
   </a>
 </p>
 
 ### Frameworks
 <p align="left">
   <a href="https://flask.palletsprojects.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white&logoWidth=20&labelColor=black&logo=flask&logoShape=circle" alt="Flask" />
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   </a>
   &nbsp;
   <a href="https://nodejs.org/" target="_blank">
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white&logoWidth=20&labelColor=black&logo=nodedotjs&logoShape=circle" alt="Node.js" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   </a>
 </p>
 
 ### Database
 <p align="left">
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&logoWidth=20&labelColor=black&logo=mysql&logoShape=circle" alt="MySQL" />
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
 </p>
 
 ## Projects
-- 📂 [**Edu Grievance System**](https://github.com/Biswapriti/EduGrievanceSystem): A system for managing educational grievances effectively.
+- 📂 [**Edu Grievance Management System**](https://github.com/Biswapriti/EduGrievanceSystem): A system for managing educational grievances effectively.
 - 📂 [**Mehndi Website**](https://github.com/Biswapriti/MehndiWebsite): A website showcasing various mehndi designs and services.
 - 📂 [**Portfolio**](https://github.com/Biswapriti/Portfolio): My personal portfolio showcasing my skills and projects.
+- 📂 [**Request Management System**](https://github.com/Biswapriti/RequestManagementSystem):  A system to handle various user requests efficiently using mysql and tkinter.
+- 📂 [**Student Result Management System**](https://github.com/Biswapriti/StudentResultManagementSystem): A system to manage student results using python and mysql.
 
 ## My Repositories
 Here are some of my public repositories:
-- 📂 [**Edu Grievance System**](https://github.com/Biswapriti/EduGrievanceSystem) - A system for managing educational grievances effectively.
+- 📂 [**Edu Grievance Management System**](https://github.com/Biswapriti/EduGrievanceSystem) - A system for managing educational grievances effectively.
 - 📂 [**Mehndi Website**](https://github.com/Biswapriti/MehndiWebsite) - A website showcasing various mehndi designs and services.
 - 📂 [**Portfolio**](https://github.com/Biswapriti/Portfolio) - My personal portfolio showcasing my skills and projects.
-- 📂 [**Another Repository**](https://github.com/Biswapriti/AnotherRepository) - Description of another repository.
+- 📂 [**Request Management System**](https://github.com/Biswapriti/RequestManagementSystem) - A system to handle various user requests efficiently.
+- 📂 [**Student Result Management System**](https://github.com/Biswapriti/StudentResultManagementSystem) - A system to manage student results using python.
 
 ## Contact
 Feel free to reach out to me via:
-- 📧 **Email**: [your-email@example.com](mailto:your-email@example.com)
-- 🌐 **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/yourprofile)
+- 📧 **Email**: [biswapritij15@gmail.com](mailto:biswapritij15@gmail.com)
+- 🌐 **LinkedIn**: [Biswapriti Priyadarsini Jena](https://www.linkedin.com/in/biswapriti-priyadarsini-jena-8868a72ab/)
 
 ## Fun Fact
-- ⚡ Fun fact about you ...
+- ⚡ I love experimenting with new technologies and building creative projects!
 
 ---
 
 Biswapriti/Biswapriti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.
+
