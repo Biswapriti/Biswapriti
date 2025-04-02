@@ -3,17 +3,19 @@
 Welcome to my GitHub profile! Here's a bit about me:
 
 ## About Me
-- 👀 I’m interested in Web Development.
+- 👀 I’m interested in Web Development and Software Development.
 - 🌱 I’m currently learning Full Stack Development.
-- 💞️ I’m looking to collaborate on exciting web projects.
+- 💞️ I’m looking to collaborate on exciting web and software development projects.
 - 📫 How to reach me: biswapritij15@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love creating interactive web applications and GUI-based software!
 
 ## Skills
 
+<div align="center">
+
 ### Frontend
-<p align="left">
+<p>
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   </a>
@@ -28,7 +30,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 </p>
 
 ### Backend
-<p align="left">
+<p>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   </a>
@@ -39,7 +41,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 </p>
 
 ### Frameworks
-<p align="left">
+<p>
   <a href="https://flask.palletsprojects.com/" target="_blank">
     <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
   </a>
@@ -50,18 +52,20 @@ Welcome to my GitHub profile! Here's a bit about me:
 </p>
 
 ### Database
-<p align="left">
+<p>
   <a href="https://www.mysql.com/" target="_blank">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
   </a>
 </p>
 
+</div>
+
 ## Projects
 - 📂 [**Edu Grievance Management System**](https://github.com/Biswapriti/EduGrievanceSystem): A system for managing educational grievances effectively.
 - 📂 [**Mehndi Website**](https://github.com/Biswapriti/MehndiWebsite): A website showcasing various mehndi designs and services.
 - 📂 [**Portfolio**](https://github.com/Biswapriti/Portfolio): My personal portfolio showcasing my skills and projects.
-- 📂 [**Request Management System**](https://github.com/Biswapriti/RequestManagementSystem):  A system to handle various user requests efficiently using mysql and tkinter.
-- 📂 [**Student Result Management System**](https://github.com/Biswapriti/StudentResultManagementSystem): A system to manage student results using python and mysql.
+- 📂 [**Request Management System**](https://github.com/Biswapriti/RequestManagementSystem): A system to handle various user requests efficiently.
+- 📂 [**Student Result Management System**](https://github.com/Biswapriti/StudentResultManagementSystem): A system to manage student results using Tkinter and MySQL.
 
 ## My Repositories
 Here are some of my public repositories:
@@ -69,12 +73,12 @@ Here are some of my public repositories:
 - 📂 [**Mehndi Website**](https://github.com/Biswapriti/MehndiWebsite) - A website showcasing various mehndi designs and services.
 - 📂 [**Portfolio**](https://github.com/Biswapriti/Portfolio) - My personal portfolio showcasing my skills and projects.
 - 📂 [**Request Management System**](https://github.com/Biswapriti/RequestManagementSystem) - A system to handle various user requests efficiently.
-- 📂 [**Student Result Management System**](https://github.com/Biswapriti/StudentResultManagementSystem) - A system to manage student results using python.
+- 📂 [**Student Result Management System**](https://github.com/Biswapriti/StudentResultManagementSystem) - A system to manage student results using Tkinter and MySQL.
 
 ## Contact
 Feel free to reach out to me via:
 - 📧 **Email**: [biswapritij15@gmail.com](mailto:biswapritij15@gmail.com)
-- 🌐 **LinkedIn**: [Biswapriti Priyadarsini Jena](https://www.linkedin.com/in/biswapriti-priyadarsini-jena-8868a72ab/)
+- 🌐 **LinkedIn**: [Biswapriti Priyadarsini Jena](https://www.linkedin.com/in/biswapriti/)
 
 ## Fun Fact
 - ⚡ I love experimenting with new technologies and building creative projects!
