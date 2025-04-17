@@ -78,12 +78,9 @@ Here are some of my public repositories:
 ## Contact
 Feel free to reach out to me via:
 - 📧 **Email**: [biswapritij15@gmail.com](mailto:biswapritij15@gmail.com)
-- 🌐 **LinkedIn**: [Biswapriti Priyadarsini Jena](https://www.linkedin.com/in/biswapriti/)
+- 🌐 **LinkedIn**: [Biswapriti Priyadarsini Jena](in/biswapriti-priyadarsini-jena-8868a72ab)
 
 ## Fun Fact
 - ⚡ I love experimenting with new technologies and building creative projects!
 
 ---
-
-Biswapriti/Biswapriti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes.
-
