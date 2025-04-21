@@ -63,7 +63,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 ## Projects
 - 📂 [**Edu Grievance Management System**](https://github.com/Biswapriti/EDU_Grivance_System): A system for managing educational grievances effectively.
 - 📂 [**Mehndi Website**](https://subhamehndi.netlify.app/): A website showcasing various mehndi designs and services.
-- 📂 [**Portfolio**](https://github.com/Biswapriti/my_portfolio): My personal portfolio showcasing my skills and projects.
+- 📂 [**Portfolio**](https://biswa-portfolio-1.netlify.app/): My personal portfolio showcasing my skills and projects.
 - 📂 [**ChatBot**](https://lexa-multi-pdf.streamlit.app): A chatBot featured web app which reat pdf.
 
 ## My Repositories
