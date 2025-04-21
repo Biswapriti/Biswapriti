@@ -65,7 +65,6 @@ Welcome to my GitHub profile! Here's a bit about me:
 - 📂 [**Mehndi Website**](https://github.com/Biswapriti/MehndiWebsite): A website showcasing various mehndi designs and services.
 - 📂 [**Portfolio**](https://github.com/Biswapriti/my_portfolio): My personal portfolio showcasing my skills and projects.
 - 📂 [**Request Management System**](https://github.com/Biswapriti/RequestManagementSystem): A system to handle various user requests efficiently.
-- 📂 [**Student Result Management System**](https://github.com/Biswapriti/StudentResultManagementSystem): A system to manage student results using Tkinter and MySQL.
 
 ## My Repositories
 Here are some of my public repositories:
