@@ -71,7 +71,7 @@ Here are some of my public repositories:
 - 📂 [**Edu Grievance Management System**](https://github.com/Biswapriti/EDU_Grivance_System) - A system for managing educational grievances effectively.
 - 📂 [**Mehndi Website**](https://github.com/Biswapriti/MehndiWebsite) - A website showcasing various mehndi designs and services.
 - 📂 [**Portfolio**](https://github.com/Biswapriti/my_portfolio) - My personal portfolio showcasing my skills and projects.
-- 📂 [**ChatBot**](): A chatBot featured web app which reat pdf.
+- 📂 [**ChatBot**](https://github.com/Biswapriti/pdf-scanner-and-reader-with-chantbot): A chatBot featured web app which reat pdf.
 
 ## Contact
 Feel free to reach out to me via:
