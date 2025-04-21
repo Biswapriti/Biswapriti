@@ -68,7 +68,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ## My Repositories
 Here are some of my public repositories:
-- 📂 [**Edu Grievance Management System**](https://github.com/Biswapriti/EduGrievanceSystem) - A system for managing educational grievances effectively.
+- 📂 [**Edu Grievance Management System**](https://github.com/Biswapriti/EDU_Grivance_System) - A system for managing educational grievances effectively.
 - 📂 [**Mehndi Website**](https://github.com/Biswapriti/MehndiWebsite) - A website showcasing various mehndi designs and services.
 - 📂 [**Portfolio**](https://github.com/Biswapriti/Portfolio) - My personal portfolio showcasing my skills and projects.
 - 📂 [**ChatBot**](https://github.com/Biswapriti/pdf-scanner-and-reader-with-chantbot): A chatBot featured web app which reat pdf.
