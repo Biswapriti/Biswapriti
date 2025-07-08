@@ -77,20 +77,21 @@ Here are some of my public repositories:
 
 <div align="center">
 
-<a href="https://github.com/Biswapriti">
-  <img src="https://github-readme-stats.vercel.app/api?username=Biswapriti&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" alt="Biswapriti's GitHub stats" height="180"/>
-</a>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
+  <a href="https://github.com/Biswapriti">
+    <img src="https://github-readme-stats.vercel.app/api?username=Biswapriti&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" alt="Biswapriti's GitHub stats" height="180"/>
+  </a>
 
-<a href="https://github.com/Biswapriti">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswapriti&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" alt="Top Langs" height="180"/>
-</a>
+  <a href="https://github.com/Biswapriti">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswapriti&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" alt="Top Langs" height="180"/>
+  </a>
 
-<br/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=Biswapriti&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak" height="180"/>
+  </a>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com?user=Biswapriti&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak" height="180"/>
-</a>
+</div>
 
 </div>
 
@@ -103,12 +104,7 @@ Here are some of my public repositories:
   - https://github.com/anuraghazra/github-readme-stats
   - https://github.com/DenverCoder1/github-readme-streak-stats
 -->
-### 📫 Connect with Me
-Feel free to reach out to me via:
-- **Email**: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biswapriti15@gmail.com)
-- **LinkedIn**:-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswapriti-priyadarsini-jena-8868a72ab)
-
-## Contact
+##  📫 Connect with Me
 Feel free to reach out to me via:
 - 📧 **Email**: [biswapritij15@gmail.com](mailto:biswapritij15@gmail.com)
 - 🌐 **LinkedIn**:- 🌐 **LinkedIn**: [Biswapriti Priyadarsini Jena](https://www.linkedin.com/in/biswapriti-priyadarsini-jena-8868a72ab)
