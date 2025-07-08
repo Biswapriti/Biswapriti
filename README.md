@@ -3,7 +3,6 @@
 Welcome to my GitHub profile! Here's a bit about me:
 
 ## 🚀 About Me
-## ⚡ Fun FactAbout Me
 - 👀 I’m interested in Web Development and Python Development.
 - 🌱 I’m currently learning Full Stack Development using MERN stack.
 - 💞️ I’m looking to collaborate on exciting web and python development projects.
