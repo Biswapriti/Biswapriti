@@ -3,9 +3,9 @@
 Welcome to my GitHub profile! Here's a bit about me:
 
 ## About Me
-- 👀 I’m interested in Web Development and Software Development.
-- 🌱 I’m currently learning Full Stack Development.
-- 💞️ I’m looking to collaborate on exciting web and software development projects.
+- 👀 I’m interested in Web Development and Python Development.
+- 🌱 I’m currently learning Full Stack Development using MERN stack.
+- 💞️ I’m looking to collaborate on exciting web and python development projects.
 - 📫 How to reach me: biswapritij15@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love creating interactive web applications and GUI-based software!
