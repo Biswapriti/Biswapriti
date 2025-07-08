@@ -60,6 +60,17 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 </div>
 
+### 🛠️ Tech Stack
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+
 ## Projects
 - 📂 [**Edu Grievance Management System**](https://github.com/Biswapriti/EDU_Grivance_System): A system for managing educational grievances effectively.
 - 📂 [**Mehndi Website**](https://subhamehndi.netlify.app/): A website showcasing various mehndi designs and services.
