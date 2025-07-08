@@ -79,8 +79,9 @@ Here are some of my public repositories:
 [![GitHub Streak](https://streak-stats.demolab.com?user=Biswapriti&theme=tokyonight)](https://git.io/streak-stats)
 
 ### 📫 Connect with Me
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biswapriti15@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Biswapriti-Priyadarsini-Jena)
+Feel free to reach out to me via:
+- **Email**: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biswapriti15@gmail.com)
+- **LinkedIn**:-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biswapriti-priyadarsini-jena-8868a72ab)
 
 ## Contact
 Feel free to reach out to me via:
