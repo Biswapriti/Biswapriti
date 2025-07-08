@@ -80,10 +80,14 @@ Here are some of my public repositories:
 <a href="https://github.com/Biswapriti">
   <img src="https://github-readme-stats.vercel.app/api?username=Biswapriti&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" alt="Biswapriti's GitHub stats" height="180"/>
 </a>
+
+
 <a href="https://github.com/Biswapriti">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswapriti&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" alt="Top Langs" height="180"/>
 </a>
+
 <br/>
+
 <a href="https://git.io/streak-stats">
   <img src="https://streak-stats.demolab.com?user=Biswapriti&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak" height="180"/>
 </a>
