@@ -12,7 +12,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ## Skills
 
-<div align="center">
+<div align="start">
 
 ### 🖥️ Frontend
 <p>
