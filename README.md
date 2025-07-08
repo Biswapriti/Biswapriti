@@ -74,10 +74,31 @@ Here are some of my public repositories:
 - 📂 [**ChatBot**](https://github.com/Biswapriti/pdf-scanner-and-reader-with-chantbot): A chatBot featured web app which reat pdf.
 
 ## 📈 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Biswapriti&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Biswapriti&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=Biswapriti&theme=tokyonight)](https://git.io/streak-stats)
 
+<div align="center">
+
+<a href="https://github.com/Biswapriti">
+  <img src="https://github-readme-stats.vercel.app/api?username=Biswapriti&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" alt="Biswapriti's GitHub stats" height="180"/>
+</a>
+<a href="https://github.com/Biswapriti">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswapriti&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" alt="Top Langs" height="180"/>
+</a>
+<br/>
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com?user=Biswapriti&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak" height="180"/>
+</a>
+
+</div>
+
+<!--
+✨ **Tips for Customization:**
+- To change the theme, replace `tokyonight` with your preferred option (e.g., `radical`, `gruvbox`, `dracula`).
+- Add `hide_border=true&border_radius=20` for a modern look.
+- You can adjust image `height` or remove it for default.
+- Explore more at:
+  - https://github.com/anuraghazra/github-readme-stats
+  - https://github.com/DenverCoder1/github-readme-streak-stats
+-->
 ### 📫 Connect with Me
 Feel free to reach out to me via:
 - **Email**: [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biswapriti15@gmail.com)
