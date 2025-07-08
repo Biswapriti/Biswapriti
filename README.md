@@ -61,10 +61,14 @@ Welcome to my GitHub profile! Here's a bit about me:
 </div>
 
 ## Projects
-- 📂 [**Edu Grievance Management System**](https://github.com/Biswapriti/EDU_Grivance_System): A system for managing educational grievances effectively.
-- 📂 [**Mehndi Website**](https://subhamehndi.netlify.app/): A website showcasing various mehndi designs and services.
-- 📂 [**Portfolio**](https://biswa-portfolio-1.netlify.app/): My personal portfolio showcasing my skills and projects.
-- 📂 [**ChatBot**](https://lexa-multi-pdf.streamlit.app): A chatBot featured web app which reat pdf.
+
+🗂️ [Edu Grievance Management System](https://github.com/Biswapriti/EDU_Grivance_System): A GUI DESKTOP application to manage and resolve educational grievances. Built with PYTHON,TKINTER and MySQL, featuring a responsive real world project..
+
+🌿 [Mehndi Website](https://subhamehndi.netlify.app/): A creative website showcasing various mehndi designs and services. Developed using HTML, CSS, and JavaScript for frontend and backend with PYTHON and FLASK WITH attention to aesthetics.
+
+🎨 [Portfolio](https://biswa-portfolio-1.netlify.app/): My personal portfolio showcasing my skills, projects, and contact details. Built to reflect my design philosophy.
+
+🤖 [ChatBot](https://lexa-multi-pdf.streamlit.app): A featured web app that responds to user queries and generates PDF summaries, demonstrating my work with AI and web integration.
 
 ## My Repositories
 Here are some of my public repositories:
@@ -80,15 +84,15 @@ Here are some of my public repositories:
 <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
 
   <a href="https://github.com/Biswapriti">
-    <img src="https://github-readme-stats.vercel.app/api?username=Biswapriti&show_icons=true&theme=tokyonight&hide_border=true&border_radius=20" alt="Biswapriti's GitHub stats" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=Biswapriti&show_icons=true&theme=radical&hide_border=true&border_radius=20" alt="Biswapriti's GitHub stats" height="180"/>
   </a>
 
   <a href="https://github.com/Biswapriti">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswapriti&layout=compact&theme=tokyonight&hide_border=true&border_radius=20" alt="Top Langs" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Biswapriti&layout=compact&theme=radical&hide_border=true&border_radius=20" alt="Top Langs" height="180"/>
   </a>
 
   <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=Biswapriti&theme=tokyonight&hide_border=true&border_radius=20" alt="GitHub Streak" height="180"/>
+    <img src="https://streak-stats.demolab.com?user=Biswapriti&theme=radical&hide_border=true&border_radius=20" alt="GitHub Streak" height="180"/>
   </a>
 
 </div>
