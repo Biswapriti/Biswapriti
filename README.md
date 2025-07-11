@@ -29,7 +29,7 @@ Welcome to my GitHub profile! Here's a bit about me:
   </a>
 </p>
 
-### 💻 Languages
+### 💻 Backend
 <p>
   <a href="https://www.python.org/" target="_blank">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
