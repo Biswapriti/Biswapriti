@@ -80,18 +80,11 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 🗂️ [Edu Grievance Management System](https://github.com/Biswapriti/EDU_Grivance_System): A GUI DESKTOP application to manage and resolve educational grievances. Built with PYTHON,TKINTER and MySQL, featuring a responsive real world project..
 
-🌿 [Mehndi Website](https://subhamehndi.netlify.app/): A creative website showcasing various mehndi designs and services. Developed using HTML, CSS, and JavaScript for frontend and backend with PYTHON and FLASK WITH attention to aesthetics.
+🌿 [Mehndi Website](https://mehndi-website.netlify.app/): A creative website showcasing various mehndi designs and services. Developed using HTML, CSS, and JavaScript for frontend and backend with PYTHON and FLASK WITH attention to aesthetics.
 
 🎨 [Portfolio](https://biswa-portfolio-1.netlify.app/): My personal portfolio showcasing my skills, projects, and contact details. Built to reflect my design philosophy.
 
 🤖 [ChatBot](https://lexa-multi-pdf.streamlit.app): A featured web app that responds to user queries and generates PDF summaries, demonstrating my work with AI and web integration.
-
-## My Repositories
-Here are some of my public repositories:
-- 📂 [**Edu Grievance Management System**](https://github.com/Biswapriti/EDU_Grivance_System) - A system for managing educational grievances effectively.
-- 📂 [**Mehndi Website**](https://github.com/Biswapriti/subha.mehndi.) - A website showcasing various mehndi designs and services.
-- 📂 [**Portfolio**](https://github.com/Biswapriti/my_portfolio) - My personal portfolio showcasing my skills and projects.
-- 📂 [**ChatBot**](https://github.com/Biswapriti/pdf-scanner-and-reader-with-chantbot): A chatBot featured web app which reat pdf.
 
 ## 📈 GitHub Stats
 
