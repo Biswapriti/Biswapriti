@@ -80,7 +80,7 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 🗂️ [Edu Grievance Management System](https://github.com/Biswapriti/EDU_Grivance_System): A GUI DESKTOP application to manage and resolve educational grievances. Built with PYTHON, TKINTER and MySQL, featuring a responsive real world project.
 
-🛒 [Amazon Clone](https://biswapriti.github.io/amazon_clone/): A landing page design with HTML,CSS,JAVASCRIPT only .
+🛒 [Amazon Clone](https://amazon-landing-page14.netlify.app/): A landing page design with HTML,CSS,JAVASCRIPT only .
 
 🎓 [Student Result Management System](https://github.com/Biswapriti/Student-Result-Management-System): A desktop application for managing student results, designed with Python ,HTML, Css< JS and MySQL for easy result entry, updating, and reporting.
 
