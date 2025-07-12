@@ -78,7 +78,11 @@ Welcome to my GitHub profile! Here's a bit about me:
 
 ## 📌 Projects
 
-🗂️ [Edu Grievance Management System](https://github.com/Biswapriti/EDU_Grivance_System): A GUI DESKTOP application to manage and resolve educational grievances. Built with PYTHON,TKINTER and MySQL, featuring a responsive real world project..
+🗂️ [Edu Grievance Management System](https://github.com/Biswapriti/EDU_Grivance_System): A GUI DESKTOP application to manage and resolve educational grievances. Built with PYTHON, TKINTER and MySQL, featuring a responsive real world project.
+
+🛒 [Amazon Clone](https://biswapriti.github.io/amazon_clone/): A landing page design with HTML,CSS,JAVASCRIPT only .
+
+🎓 [Student Result Management System](https://github.com/Biswapriti/Student-Result-Management-System): A desktop application for managing student results, designed with Python ,HTML, Css< JS and MySQL for easy result entry, updating, and reporting.
 
 🌿 [Mehndi Website](https://mehndi-website.netlify.app/): A creative website showcasing various mehndi designs and services. Developed using HTML, CSS, and JavaScript for frontend and backend with PYTHON and FLASK WITH attention to aesthetics.
 
@@ -117,10 +121,12 @@ Welcome to my GitHub profile! Here's a bit about me:
   - https://github.com/anuraghazra/github-readme-stats
   - https://github.com/DenverCoder1/github-readme-streak-stats
 -->
+
 ##  📫 Connect with Me
 Feel free to reach out to me via:
 - 📧 **Email**: [biswapritij15@gmail.com](mailto:biswapritij15@gmail.com)
-- 🌐 **LinkedIn**:- 🌐 **LinkedIn**: [Biswapriti Priyadarsini Jena](https://www.linkedin.com/in/biswapriti-priyadarsini-jena-8868a72ab)
+- 🌐 **LinkedIn**: [Biswapriti Priyadarsini Jena](https://www.linkedin.com/in/biswapriti-priyadarsini-jena-8868a72ab)
+
 ## Fun Fact
 - ⚡ I love experimenting with new technologies and building creative projects!
 
